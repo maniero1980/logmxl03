@@ -1,2 +1,1 @@
-# logmxl03
-Demo repository
+This is a demo repository
